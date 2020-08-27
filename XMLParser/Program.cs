@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using XMLParser;
 using System.Collections;
+using Oracle.ManagedDataAccess.Client;
 
 namespace ParseXML
 {
@@ -16,6 +17,9 @@ namespace ParseXML
             String URLString = "https://www.tcmb.gov.tr/kurlar/today.xml";
             XmlTextReader reader = new XmlTextReader(URLString);
             ArrayList CurrencyArrayList = new ArrayList();
+            string user_id = "SYSTEM";
+            string user_password = "1234";
+            string data_source = "localhost:1521 / xe";
 
             string date = null;
             bool skipping = true;
@@ -98,12 +102,61 @@ namespace ParseXML
                         break;
                 }
             }
+
+            //Create a connection to Oracle
+            //string conString = "User Id=hr; password=hr;" +
+            string conString = "User Id=" + user_id + "; password=" + user_password +";" +
+
+            //How to connect to an Oracle DB without SQL*Net configuration file
+            //also known as tnsnames.ora.
+            "Data Source=" + data_source + "; Pooling=false;";
+            //"Data Source=localhost:1521/pdborcl; Pooling=false;";
+
+            //How to connect to an Oracle Database with a Database alias.
+            //Uncomment below and comment above.
+            //"Data Source=pdborcl;Pooling=false;";
+
+            OracleConnection con = new OracleConnection();
+            con.ConnectionString = conString;
+            con.Open();
             
-            foreach(CurrencyData cd in CurrencyArrayList)
+            Console.WriteLine("Press 1 to Show Values\nPress 2 to Insert Values");
+            string userChoice = Console.ReadLine();
+            if(userChoice == "1")
             {
-                cd.PrintCurrencyInfo();
+                OracleCommand cmd = con.CreateCommand();
+                cmd.CommandText = "select * from currency";
+
+                OracleDataReader odr = cmd.ExecuteReader();
+                while (odr.Read())
+                {
+                    Console.WriteLine("Result: " + odr.GetString(0)); //prints currency name only
+                }
+                Console.WriteLine("Read succesfull.");
             }
-            
+            else if(userChoice == "2")
+            {
+                foreach (CurrencyData cd in CurrencyArrayList)
+                {
+                    OracleCommand cmd = con.CreateCommand();
+                    cmd.CommandText = "insert into currency" +
+                    "(cname, unit, forexbuy, forexsell, banknotebuy, banknotesell)" +
+                    "values" + "('" + 
+                    cd.currencyName + "', " + 
+                    cd.unit + ", " +
+                    cd.forexBuying + "," +
+                    cd.forexSelling + "," +
+                    cd.banknoteBuying + "," +
+                    cd.banknoteSelling + ")";
+
+                    OracleDataReader odr = cmd.ExecuteReader();
+                }
+                Console.WriteLine("Insert succesfull.");
+            }
+            else
+            {
+                Console.WriteLine("Invalid key pressed.");
+            }
         }
     }
 }

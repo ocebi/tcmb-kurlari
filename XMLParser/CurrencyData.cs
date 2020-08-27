@@ -17,6 +17,23 @@ namespace XMLParser
 
         public CurrencyData(string u, string cn, string fb, string fs, string bb, string bs)
         {
+            if (string.IsNullOrEmpty(fb))
+            {
+                fb = "null";
+            }
+            if (string.IsNullOrEmpty(fs))
+            {
+                fs = "null";
+            }
+            if (string.IsNullOrEmpty(bb))
+            {
+                bb = "null";
+            }
+            if (string.IsNullOrEmpty(bs))
+            {
+                bs = "null";
+            }
+
             unit = u;
             currencyName = cn;
             forexBuying = fb;
