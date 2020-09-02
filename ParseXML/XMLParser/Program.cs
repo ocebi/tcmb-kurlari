@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using XMLParser;
 using System.Collections;
 using Oracle.ManagedDataAccess.Client;
+using System.IO;
 
 namespace ParseXML
 {
@@ -14,6 +15,11 @@ namespace ParseXML
     {
         static void Main(string[] args)
         {
+            //string processPath = File.ReadAllText(Path.Combine(System.IO.Directory.GetCurrent‌​Directory()));//, ".."));
+            string currentDir = Environment.CurrentDirectory;
+            DirectoryInfo directory = new DirectoryInfo(Path.GetFullPath(Path.Combine(currentDir, "..\\..\\..\\..\\DataToServer")));
+            Console.WriteLine(directory);
+            /*
             String URLString = "https://www.tcmb.gov.tr/kurlar/today.xml";
             XmlTextReader reader = new XmlTextReader(URLString);
             ArrayList CurrencyArrayList = new ArrayList();
@@ -157,6 +163,7 @@ namespace ParseXML
             {
                 Console.WriteLine("Invalid key pressed.");
             }
+            */
         }
     }
 }
