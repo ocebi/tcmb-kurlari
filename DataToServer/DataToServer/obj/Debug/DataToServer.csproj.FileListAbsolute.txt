@@ -1,0 +1,18 @@
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe.config
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.pdb
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.csprojResolveAssemblyReference.cache
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.ProjectInstaller.resources
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.csproj.GenerateResource.cache
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.csproj.CoreCompileInputs.cache
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.exe
+E:\Coding\Github Repos\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.pdb
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe.config
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.pdb
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.ProjectInstaller.resources
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.csproj.GenerateResource.cache
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.csproj.CoreCompileInputs.cache
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.exe
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.pdb
+E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\obj\Debug\DataToServer.csprojResolveAssemblyReference.cache

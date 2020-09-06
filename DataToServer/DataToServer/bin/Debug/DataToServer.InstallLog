@@ -1,0 +1,634 @@
+﻿Uninstalling assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service currency-reader...
+Service currency-reader has been successfully installed.
+Creating EventLog source currency-reader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service currency-reader...
+Service currency-reader has been successfully installed.
+Creating EventLog source currency-reader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service currency-reader...
+Creating EventLog source currency-reader in log Application...
+Rolling back assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Restoring event log to previous state for source currency-reader.
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service currency-reader...
+Service currency-reader has been successfully installed.
+Creating EventLog source currency-reader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service currency-reader...
+Service currency-reader has been successfully installed.
+Creating EventLog source currency-reader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Creating EventLog source CurrencyReader in log Application...
+Rolling back assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Restoring event log to previous state for source CurrencyReader.
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Creating EventLog source CurrencyReader in log Application...
+Rolling back assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Restoring event log to previous state for source CurrencyReader.
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe
+Installing service CurrencyReader...
+Service CurrencyReader has been successfully installed.
+Creating EventLog source CurrencyReader in log Application...
+Committing assembly 'E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.InstallLog
+   assemblypath = E:\Coding\Github\tcmb-kurlari\DataToServer\DataToServer\bin\Debug\DataToServer.exe

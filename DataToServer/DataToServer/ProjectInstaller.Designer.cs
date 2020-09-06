@@ -39,8 +39,7 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.DisplayName = "currency-reader";
-            this.serviceInstaller1.ServiceName = "Service1";
+            this.serviceInstaller1.ServiceName = "CurrencyReader";
             // 
             // ProjectInstaller
             // 
