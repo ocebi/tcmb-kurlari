@@ -25,7 +25,7 @@ namespace DataToServer
             };
             ServiceBase.Run(ServicesToRun);
             
-
+            //uncomment below to run service in interactive mode, for debug purposes only
             /*
             ServiceBase[] servicesToRun = new ServiceBase[] { new CurrencyReader() };
             if (Environment.UserInteractive)

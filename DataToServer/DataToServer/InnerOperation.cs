@@ -6,16 +6,13 @@ using System.IO;
 using System.Linq;
 using System.Net.Sockets;
 using System.ServiceProcess;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Timers;
 
 namespace DataToServer
 {
     class InnerOperation
     {
-        System.Timers.Timer timer = new System.Timers.Timer();
+        Timer timer = new Timer();
         public void Start()
         {
             Console.WriteLine("On start: ");
@@ -73,7 +70,7 @@ namespace DataToServer
                 var localDateTime = DateTime.ParseExact(utcDateTimeString, "dd-MM-yy HH:mm:ss", CultureInfo.InvariantCulture, DateTimeStyles.AssumeUniversal);
                 Console.WriteLine("Localdatetime.min: " + localDateTime.Minute);
                 DateTime targetTime = new DateTime(localDateTime.Year, localDateTime.Month, localDateTime.Day, 15, 35, 0);
-                //if (localDateTime.Hour > 15 || (localDateTime.Hour == 15 && localDateTime.Minute >= 35))
+
                 if (localDateTime.Hour > 15 || (localDateTime.Hour == 15 && localDateTime.Minute >= 35))
                 {
                     Console.WriteLine("Calculated: negative");

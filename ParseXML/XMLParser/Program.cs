@@ -1,13 +1,9 @@
 ﻿using System;
 using System.Xml;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using XMLParser;
 using System.Collections;
 using Oracle.ManagedDataAccess.Client;
-using System.IO;
 using System.ServiceProcess;
 using System.Threading;
 
@@ -115,15 +111,7 @@ namespace ParseXML
             //Create a connection to Oracle
             //string conString = "User Id=hr; password=hr;" +
             string conString = "User Id=" + user_id + "; password=" + user_password +";" +
-
-            //How to connect to an Oracle DB without SQL*Net configuration file
-            //also known as tnsnames.ora.
             "Data Source=" + data_source + "; Pooling=false;";
-            //"Data Source=localhost:1521/pdborcl; Pooling=false;";
-
-            //How to connect to an Oracle Database with a Database alias.
-            //Uncomment below and comment above.
-            //"Data Source=pdborcl;Pooling=false;";
             
             OracleConnection con = new OracleConnection();
             con.ConnectionString = conString;
@@ -209,31 +197,7 @@ namespace ParseXML
                         
                     }
                 }
-
-                /*
-                if (args.Length > 0)
-                {
-                    if (args[0] == "2")
-                    {
-                        Console.WriteLine("Restarting service.");
-                        using (ServiceController service = new ServiceController("CurrencyReader"))
-                        {
-                            try
-                            {
-                                service.Stop();
-                                service.WaitForStatus(ServiceControllerStatus.Stopped);
-
-                                service.Start();
-                                service.WaitForStatus(ServiceControllerStatus.Running);
-                            }
-                            catch (Exception ex)
-                            {
-                                throw new Exception("Can not restart the Windows Service CurrencyReader", ex);
-                            }
-                        }
-                    }
-                }
-                */
+                
 
                     }
             else if(userChoice == "3") //reset the database
